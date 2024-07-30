@@ -1,1 +1,1 @@
-# Taller-de-TypeScript-en-la-Industria-Farmac-utica
+# Taller-de-TypeScript-en-la-Industria-Farmaceutica
